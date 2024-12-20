@@ -13,6 +13,7 @@ Rich content: Whether it's historical and cultural heritage, natural beauty or v
 
 📱 Download GeziO Now
 Start exploring Turkey's rich culture, nature and historical sites now! Your travels will be much more enjoyable and easier with the GeziO app. Moreover, the app is completely free! Your perfect guide for your next vacation or weekend getaway is ready!
+GeziO - Turkey Travel Guide updated! Description popup changed.
 <a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
     Download GeziO App - Google Play Store
 </a>
